@@ -62,7 +62,7 @@ export default function Home() {
   };
 
   return (
-    <main className="px-[15rem] pt-[5rem]">
+    <main className="px-[15rem] max-md:px-[1rem] pt-[5rem]">
       <h1 className="text-slate-400 text-2xl font-bold">Alameda Quiz Game</h1>
       <p className="text-3xl font-bold pt-6 mb-4">
         Teste os seus Conhecimentos
